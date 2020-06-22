@@ -1,2 +1,1 @@
-# learning-golang
-just for learning
+### These are exercises to practice from gopherexercises.
